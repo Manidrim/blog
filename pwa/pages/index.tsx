@@ -58,7 +58,7 @@ const Welcome = () => (
             <Image alt="API Platform" src={logo} />
           </h1>
           <p className="text-cyan-200 my-5 text-lg">
-            This container will host your{" "}
+            This is kaamelott container will host your{" "}
             <a
               className="text-white font-bold hover:bg-cyan-500"
               href="https://nextjs.org/"
